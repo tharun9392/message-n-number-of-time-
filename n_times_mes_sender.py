@@ -2,7 +2,7 @@ import pyautogui as pg
 import time
 import random
 
-animals=['NANNA','oyeeeeeeeeeeee','cheee','bujjiii kondaa','corryyyyyyyyy' ,'oseyyy','bujjiii nannaaa','hieee','nannnnnnaaaaaaa']
+animals=['hloo','oyeeeeeeeeeeee','hai','hai','hay' ,'yyy','yehaaa','hieee','aaaaaaa']
 
 time.sleep(8)
 
